@@ -1,2 +1,2 @@
-## 👋 Hi, We are @POGASAgame
+## 👋 Hi, We are POGASAgame
 We make game
